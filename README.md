@@ -1,3 +1,3 @@
 ### Vydr.io web site
 
-Services
+Demo page for a client.
